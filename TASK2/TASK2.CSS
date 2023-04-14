@@ -1,0 +1,193 @@
+/*body{
+  background-color:#65647C; //#0B2447
+}*/
+
+.box{
+  background-color:#0B2447;
+  position:absolute;
+  z-index:5;
+
+  height:800px;
+  width:800px;
+  padding-right:130px;
+  border: solid 2px;
+  margin-top:30px;
+    margin-left:30px;
+
+
+}
+.second-box{
+
+
+    border: solid 5px;
+    margin-left: 90px;
+  background-color:#393646;
+  margin-left:700px;
+  height:1000px;
+  width:600px;
+
+}
+.h1{
+  font-family:"Montserrat-black";
+  weight:1.5rem;
+  color:white;
+
+}
+.img1{
+
+  margin-top:50px;
+  height:150px;
+  width:150px;
+
+
+
+}
+.para1{
+  color:white;
+  font-size: 1.1rem;
+
+
+}
+
+
+
+.flex-parent-element {
+  display: flex;
+  width: 115%;
+
+}
+
+.flex-child-element {
+  flex: 150px;
+  margin: 30px;
+  margin-left:90px;
+
+}
+
+.flex-child-element:first-child {
+  margin-right: 20px;
+}
+.flex-child-element2
+{
+  margin-top:20px;
+  width:300px;
+}
+.flex-child-element1
+{
+  margin-top:50px;
+  margin-left:30px;
+
+
+
+}
+.h11{
+  font-family:"Montserrat-black";
+  weight:1.5rem;
+  color:white;
+  margin-left:30px;
+
+}
+.table{
+  color:white;
+  text-align:center;
+  margin-left:30px;
+}
+.acd{
+  margin-top:70px;
+}
+.container{
+  color:white;
+  margin-left:30px;
+  text-align:center;
+}
+.img2{
+  margin-top:10px;
+  height:100px;
+  width:100px;
+  border-radius:50%;
+  border-style:solid;
+  border-color:white;
+}
+.h13
+{
+
+    font-family:"Montserrat-black";
+    weight:1.5rem;
+    color:white;
+    margin-left:130px;
+    margin-top:50px;
+    text-decoration: underline;
+
+
+}
+.img4{
+  height:100px;
+  width:100px;
+  margin-top:10px;
+}
+.p{
+  margin-top:50px;
+  margin-left:30px;
+}
+
+.in{
+      margin-top:100px;
+      margin-left:-240px;
+
+}
+.arrow{
+  height:30px;
+  width:30px;
+  border-radius:50%;
+  margin-left:-110px;
+  margin-top:25px;
+
+}
+.p2{
+  margin-top:-30px;
+    margin-left:40px;
+}
+
+.arrow1{
+  height:30px;
+  width:30px;
+  margin-left:-110px;
+  border-radius:50%;
+    margin-top:15px;
+
+}
+.p1{
+  margin-top:-30px;
+    margin-left:40px;
+}
+.resume{
+  margin-top:50px;
+  margin-left:-180px;
+}
+.ct{
+  margin-right:420px;
+  margin-top:20px;
+}
+.c{
+  background-color:#CBE4DE;
+  color:black;
+  height:100px;
+  width:550px
+}
+.link
+{
+  height:90px;
+  width:90px;
+}
+.follow-icon{
+
+
+  margin-right:30px;
+
+  margin-top:10px;
+}
+
+
+.adr{
+  background-color:black;
+}
